@@ -25,4 +25,4 @@ yarn-error.log*
 .idea/
 env/
 server/__pycache__
-client/node_modules/.cache
+client/node_modules/
